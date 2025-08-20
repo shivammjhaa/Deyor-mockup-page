@@ -256,4 +256,3 @@ input:focus, select:focus{ border-color: #94a3b8; box-shadow: 0 0 0 4px rgba(148
   .grid-3{ grid-template-columns: 1fr; }
   .hero__actions{ flex-wrap:wrap; }
 }
-
